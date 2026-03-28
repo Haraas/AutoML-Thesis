@@ -1,0 +1,3 @@
+[submodule "references/qp_evaluation"]
+	path = references/qp_evaluation
+	url = https://github.com/zhaoyue-ntu/qp_evaluation
